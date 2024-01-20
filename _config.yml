@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Betcel Tour
+description: A Betcel Tour é uma agência de viagens especializada em proporcionar experiências únicas e inesquecíveis aos nossos clientes. Com uma equipe de profissionais experientes e apaixonados por viagens, estamos prontos para ajudá-lo a planejar e realizar a viagem dos seus sonhos.
